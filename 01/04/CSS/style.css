@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    padding-top: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.wrapper {
+    overflow: hidden;
+    width: 100%;
+    margin: auto 130px;
+}
+
+.intro {
+    padding-top: 10px;
+    text-align: left;
+    margin: auto 130px;
+}
+
+.Col-1 {
+    float: left;
+    width: 40%;
+    margin-right: 2%;
+    text-align: justify;
+}
+
+.Col-2 {
+    text-align: justify;
+    margin-right: 20%;
+    
+}
