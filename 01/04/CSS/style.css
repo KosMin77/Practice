@@ -35,3 +35,15 @@ h1 {
     margin-right: 20%;
     
 }
+
+hr {
+    max-width: 80vw;
+    margin-right: 11%;
+    margin-left: 8.5%;
+}
+
+.after {
+    max-width: 80vw;
+    margin-right: 11%;
+    margin-left: 8.5%;
+}
